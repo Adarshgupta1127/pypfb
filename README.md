@@ -2,7 +2,7 @@
 
 Python SDK to create, explore and modify PFB (Portable Format for Biomedical Data) files.
 
-
+PFB files are commonly used in biomedical research, such as in the Data for the Common Good (D4CG) ecosystem, to store and share structured medical data efficiently.
 ## PyPFB Overview
 
 > For more details, see the [Portable Format for Biomedical Data](/docs/detailed_pfb_doc.md) document.
